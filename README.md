@@ -1,4 +1,4 @@
-# rin-map
+# map-rin
 working plate of map
 
 **Related Repos**
